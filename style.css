@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color:rgb(0, 162, 255);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 80%;
+}
+.hire-button{
+    text-decoration: none ;
+    background-color: rgb(248, 38, 161);
+    padding: 10px 40px;
+    color:white;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+.top-banner{
+    background-image: url(showOff/images/top-banner.png);
+    background-repeat:no-repeat ;
+}
